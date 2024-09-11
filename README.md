@@ -1,5 +1,5 @@
 [![MasterHead](https://i.redd.it/n8agw6z2smyb1.gif)](https://codegrills.in)
-<h1 align="center">Hi 👋, I'm M Tabish</h1>
+<h1 align="center">Hi 👋, I'm M-Tabish</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif">
 

@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tabish30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tabisha30/" height="30" width="40" /></a>
 <a href="https://instagram.com/st.tabish_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="st.tabish_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tabish hussain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tabishhussain4352" height="30" width="40" /></a>
+<a href="https://youtube.com/@tabishhussain4352?si=CMhYfdL9UesM_Sf_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@tabishhussain4352" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/tab_8bp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/tab_8bp" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/tabish31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tabish31/" height="30" width="40" /></a>
 </p>

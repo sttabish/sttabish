@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **javaScript, Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://sttabish.github.io/new-port/](https://sttabish.github.io/new-port/)
+- 👨‍💻 All of my projects are available at [https://sttabish.github.io/Tabish/](https://sttabish.github.io/Tabish/)
 
 - 📫 How to reach me **tab.8bp@gmail.com**
 
